@@ -123,6 +123,4 @@ git commit -m "chore: initialize object-oriented programming labs"
 git push -u origin main
 ```
 
-Nie umieszczaj w README hasel, tokenow ani prywatnych danych. Adres zdalnego
-repozytorium dodaj dopiero po utworzeniu repozytorium i sprawdzeniu ustawien
-widocznosci.
+### READMY.md napisane na szybko w AI, wygodniejsze dla mnie to.
