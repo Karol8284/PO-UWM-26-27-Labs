@@ -1,0 +1,45 @@
+# Java compilation and build output
+*.class
+out/
+target/
+build/
+bin/
+.gradle/
+
+# Java archives and runtime artifacts
+*.jar
+*.war
+*.ear
+*.log
+*.hprof
+hs_err_pid*
+replay_pid*
+
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Eclipse and other Java IDE metadata
+.classpath
+.project
+.settings/
+
+# Visual Studio Code local configuration
+.vscode/
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Temporary files
+*.tmp
+*.temp
+*~
