@@ -1,3 +1,4 @@
+# Karol Małęcki
 # Programowanie obiektowe - laboratoria
 
 Samodzielne repozytorium z kodem z laboratoriow z przedmiotu
