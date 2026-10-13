@@ -2,6 +2,7 @@
 
 ## Zrobiłem to sobie, aby jak kiedyś zapomnę, to żeby ai mi nie robiło całej pracy za mnie, ale pomogło zrozumieć i nauczwyć się wymaganego rozwiązania
 
+## Organizacją
 ## Jak i komendy do szybkiego tworzenia i dodawania labów, oraz kluczowe komendy do powershell
 
 # Programowanie obiektowe - laboratoria
