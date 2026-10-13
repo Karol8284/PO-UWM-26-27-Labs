@@ -1,4 +1,7 @@
 # Karol Małecki
+
+# Zrobiłem to sobie, aby jak kiedyś zapomne, to aby ai mi nie robiło całej pracy za mnie, ale pomogło zrozumieć i nauczwyć się wymaganego rozwiązania
+
 # Programowanie obiektowe - laboratoria
 
 Samodzielne repozytorium z kodem z laboratoriow z przedmiotu
