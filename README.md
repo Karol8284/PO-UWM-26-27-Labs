@@ -1,10 +1,16 @@
 # Karol Małecki
 
-## Zrobiłem to sobie, aby jak kiedyś zapomnę, to żeby ai mi nie robiło całej pracy za mnie, ale pomogło zrozumieć i nauczwyć się wymaganego rozwiązania
+## Po co taki Readme.md dla mnie?
+Z AI nie kożysatam, bo ten projekt jest takim przypomnieniem dla mnie java z przed 3 lat.
+Zrobiłem to sobie, aby jak kiedyś zapomnę, to bym wiedział po co był mi ten projekt. <br>
+Ale tak głównie to robie sobie co jakiś czas, 3-6 miesięcy analize postępów w nauce, zdobywaniu wiedzy, spawdzanie luk, braków w wiedzy, i wglóle. <br>
+Każe mu przechodzić przez wszstkie proejkty w repo na tą chwilę 66, od szkoły średniej do dziesiaj. <br>
+Urzywam do tego AI i nie lubie jak mi wypisuje, że powinienem coś lepiej napisać , że nie stosuje zasad clean code, że nie stosuje zasad SOLID, że nie stosuje wzorców projektowych, że nie stosuje zasad DRY, KISS, YAGNI, i tak dalej. <br>
+Więc takie readmy jest po to aby mi nie brał tego mocno pod uwagę do raportów. <br>
+Za 3-7 lat, a co dopeiro za 30 to nie będę o tym repo wogule pamiętał, a zostawie sobie to na pamiątke ;)
 
-## Organizacją
-## Jak i komendy do szybkiego tworzenia i dodawania labów, oraz kluczowe komendy do powershell
-
+ps. Jest to i tak podfolder do znacznie większego repo prywatnego z całą wiedzą ze studiów w tym opracowania i masa wyjaśnień, linków do materiałów, notatek, filmów na YouTube i tak dalej. <br>
+    
 # Programowanie obiektowe - laboratoria
 
 Samodzielne repozytorium z kodem z laboratoriow z przedmiotu
@@ -16,19 +22,6 @@ Repozytorium jest przeznaczone do:
 - dodawania krotkich opisow zalozen i sposobu uruchomienia;
 - zachowania testow, notatek z weryfikacji i historii zmian;
 - oddawania prowadzacemu tylko kodu zrodlowego potrzebnego do oceny.
-
-## Zasady
-
-Aktualne wymagania prowadzacego maja pierwszenstwo przed tym plikiem.
-W szczegolnosci:
-
-- zadania punktowane nalezy przygotowywac samodzielnie;
-- nie wolno uzywac generatywnej AI do generowania, uzupelniania,
-  modyfikowania ani poprawiania kodu oddawanego jako rozwiazanie zadania;
-- przed oddaniem trzeba umiec wyjasnic kod i wykonac niewielka modyfikacje
-  na prosbe prowadzacego;
-- do repozytorium trafia kod zrodlowy, a nie pliki wygenerowane przez IDE
-  lub kompilator.
 
 ## Struktura
 
